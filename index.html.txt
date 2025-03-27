@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anuradha Ke Liye</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Anuradha, Tum Meri Wajah Se Hamesha Muskurati Raho!</h1>
+        <div class="heart"></div>
+        <p>Mujhe tumse pyar hai, kya tum meri wajah banogi?</p>
+        <a href="page2.html" class="btn">Ek Surprise Hai Tumhare Liye</a>
+    </div>
+    <audio autoplay loop>
+        <source src="https://www.dropbox.com/scl/fi/xyz123/i-wanna-be-yours.mp3?rlkey=abc123&raw=1" type="audio/mp3">
+    </audio>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Surprise for Anuradha</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container letter">
+        <h1>Dear Anuradha,</h1>
+        <p class="typewriter">Tum meri zindagi ka sabse pyara sapna ho. Har pal tumhare saath bitana chahta hu. Kya tum mujhe apna banaogi?</p>
+        <div class="small-hearts">
+            <div class="heart-small"></div>
+            <div class="heart-small"></div>
+            <div class="heart-small"></div>
+        </div>
+        <a href="index.html" class="btn">Wapas Jao</a>
+    </div>
+    <audio autoplay loop>
+        <source src="https://www.dropbox.com/scl/fi/xyz123/i-wanna-be-yours.mp3?rlkey=abc123&raw=1" type="audio/mp3">
+    </audio>
+    <script src="script.js"></script>
+</body>
+</html>
